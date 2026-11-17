@@ -60,4 +60,4 @@ Software Engineer with 6+ years of experience designing and delivering productio
 
 I'm interested in software engineering, cloud systems, and applied AI.
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/anudnya-khandekar-b8420213b/) 
