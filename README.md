@@ -3,7 +3,7 @@
 
 # Hey, I'm Anudnya 👋
 
-### Software Engineer · Backend Developer · AI/ML Builder
+### Software Engineer · Backend & Cloud Systems · Applied AI
 
 📍 Atlanta, GA
 
